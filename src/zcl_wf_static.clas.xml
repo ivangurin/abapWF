@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_CLAS" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOCLASS>
+    <CLSNAME>ZCL_WF_STATIC</CLSNAME>
+    <VERSION>1</VERSION>
+    <LANGU>R</LANGU>
+    <DESCRIPT>Âñïîìîãàòåëüíûå îáùèå ìåòîäû äëÿ ðàáîòû ñ WF</DESCRIPT>
+    <EXPOSURE>2</EXPOSURE>
+    <STATE>1</STATE>
+    <CLSFINAL>X</CLSFINAL>
+    <CLSCCINCL>X</CLSCCINCL>
+    <FIXPT>X</FIXPT>
+    <UNICODE>X</UNICODE>
+   </VSEOCLASS>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_WF_STATIC</CLSNAME>
+     <CMPNAME>COMPLETE</CMPNAME>
+     <LANGU>R</LANGU>
+     <DESCRIPT>Çàâåðåøåíèå çàäà÷è</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_WF_STATIC</CLSNAME>
+     <CMPNAME>DUMMY</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Èíäèêàòîð èç îäíîé ïîçèöèè</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_WF_STATIC</CLSNAME>
+     <CMPNAME>DUMMY</CMPNAME>
+     <LANGU>R</LANGU>
+     <DESCRIPT>Èíäèêàòîð èç îäíîé ïîçèöèè</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_WF_STATIC</CLSNAME>
+     <CMPNAME>GET_CONTAINER</CMPNAME>
+     <LANGU>R</LANGU>
+     <DESCRIPT>Ïîëó÷àåì äàííûå êîíòåéíåðà</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_WF_STATIC</CLSNAME>
+     <CMPNAME>GET_CONTEXT</CMPNAME>
+     <LANGU>R</LANGU>
+     <DESCRIPT>Ïîëó÷åíèå êîíòåêñòà çàäà÷è</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_WF_STATIC</CLSNAME>
+     <CMPNAME>GET_VALUE</CMPNAME>
+     <LANGU>R</LANGU>
+     <DESCRIPT>Ïîëó÷èòü çíà÷åíèå êîíòåéíåðà</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_WF_STATIC</CLSNAME>
+     <CMPNAME>LOCK</CMPNAME>
+     <LANGU>R</LANGU>
+     <DESCRIPT>Áëîêèðóåì</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_WF_STATIC</CLSNAME>
+     <CMPNAME>SET_CONTAINER</CMPNAME>
+     <LANGU>R</LANGU>
+     <DESCRIPT>Ñîõðàíåíèå äàííûõ êîíòåéíåð</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_WF_STATIC</CLSNAME>
+     <CMPNAME>SET_VALUE</CMPNAME>
+     <LANGU>R</LANGU>
+     <DESCRIPT>Çàäàòü çíà÷åíèå êîíòåéíåðà</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_WF_STATIC</CLSNAME>
+     <CMPNAME>UNLOCK</CMPNAME>
+     <LANGU>R</LANGU>
+     <DESCRIPT>Ðàçáëîêèðóåì</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>
