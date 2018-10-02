@@ -5,8 +5,8 @@
    <VSEOCLASS>
     <CLSNAME>ZCL_WF_STATIC</CLSNAME>
     <VERSION>1</VERSION>
-    <LANGU>R</LANGU>
-    <DESCRIPT>Âñïîìîãàòåëüíûå îáùèå ìåòîäû äëÿ ðàáîòû ñ WF</DESCRIPT>
+    <LANGU>E</LANGU>
+    <DESCRIPT>Methods for work with WF</DESCRIPT>
     <EXPOSURE>2</EXPOSURE>
     <STATE>1</STATE>
     <CLSFINAL>X</CLSFINAL>
@@ -20,18 +20,6 @@
      <CMPNAME>COMPLETE</CMPNAME>
      <LANGU>R</LANGU>
      <DESCRIPT>Çàâåðåøåíèå çàäà÷è</DESCRIPT>
-    </SEOCOMPOTX>
-    <SEOCOMPOTX>
-     <CLSNAME>ZCL_WF_STATIC</CLSNAME>
-     <CMPNAME>DUMMY</CMPNAME>
-     <LANGU>E</LANGU>
-     <DESCRIPT>Èíäèêàòîð èç îäíîé ïîçèöèè</DESCRIPT>
-    </SEOCOMPOTX>
-    <SEOCOMPOTX>
-     <CLSNAME>ZCL_WF_STATIC</CLSNAME>
-     <CMPNAME>DUMMY</CMPNAME>
-     <LANGU>R</LANGU>
-     <DESCRIPT>Èíäèêàòîð èç îäíîé ïîçèöèè</DESCRIPT>
     </SEOCOMPOTX>
     <SEOCOMPOTX>
      <CLSNAME>ZCL_WF_STATIC</CLSNAME>
